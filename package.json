@@ -1,0 +1,14 @@
+{
+  "name": "numerical-methods",
+  "version": "1.0.0",
+  "description": "use to calculate solutions of equations by integration and iterative methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "micjef",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
